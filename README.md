@@ -14,7 +14,7 @@ This project involves analyzing a dataset containing information about subscript
 1. **subscription_information.csv**: Contains details about client subscriptions, including subscription type, start and end dates, and renewal status.
 2. **payment_information.csv**: Includes client payment data, payment methods, and amounts paid.
 3. **financial_information.csv**: Provides quarterly inflation rates and GDP growth rates.
-4. **industrial.csv**: Contains client information related to their industry, company size, and location.
+4. **industrial_information.csv**: Contains client information related to their industry, company size, and location.
 
 ## 🔍 Key Questions
 
