@@ -30,7 +30,18 @@ This project involves analyzing a dataset containing information about subscript
 4. **What is the median amount paid each year for all payment methods?**
    - We compute the median payment amount for each year across different payment methods to understand trends in payments.
 
-## 📊 Visualizations
+
+### 🔍 Key Insights
+
+- **Finance Lending** has more clients than **Block Chain**, indicating a stronger presence in traditional financial sectors.
+- Clients from the **Gaming industry** are the most loyal, with a **72% renewal rate**.
+- Subscriptions were typically renewed during periods of **moderate inflation**, averaging around **4.31%**.
+- The **median payment amount** varied each year, **peaking in 2019**, possibly due to changes in subscription pricing or user behavior.
+
+### 📍 Connect with Me:
+- [GitHub](https://github.com/ayushpratapsingh1)
+- [LinkedIn](https://www.linkedin.com/in/ayushpratapsingh)
+
 
 - **Line Chart for Median Payment Amount**: A line chart is used to represent the median payment amount each year across all payment methods. This visualization helps to identify payment trends over time.
 
