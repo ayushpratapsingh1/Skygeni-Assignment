@@ -33,7 +33,7 @@ This project involves analyzing a dataset containing information about subscript
 
 ### 🔍 Key Insights
 
-- **Finance Lending** has more clients than **Block Chain**, indicating a stronger presence in traditional financial sectors.
+- **Block Chain** has more clients than **Finance Lending**, indicating a stronger presence in traditional financial sectors.
 - Clients from the **Gaming industry** are the most loyal, with a **72% renewal rate**.
 - Subscriptions were typically renewed during periods of **moderate inflation**, averaging around **4.31%**.
 - The **median payment amount** varied each year, **peaking in 2019**, possibly due to changes in subscription pricing or user behavior.
