@@ -40,7 +40,7 @@ This project involves analyzing a dataset containing information about subscript
 
 ### 📍 Connect with Me:
 - [GitHub](https://github.com/ayushpratapsingh1)
-- [LinkedIn](https://www.linkedin.com/in/ayushpratapsingh)
+- [LinkedIn](https://www.linkedin.com/in/ayushpratapsingh1)
 
 
 - **Line Chart for Median Payment Amount**: A line chart is used to represent the median payment amount each year across all payment methods. This visualization helps to identify payment trends over time.
